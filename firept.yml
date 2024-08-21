@@ -4,6 +4,8 @@ server:
   apiKey: '****'
   port: 9999
 
+customPublicUrl: 'http://localhost:9999'
+
 repository:
   provider: github
   personalAccessToken: '****'
