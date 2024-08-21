@@ -1,0 +1,14 @@
+# This configuration is used for FirePT unit & E2E tests which run against this sample workspace directory.
+
+server:
+  apiKey: '****'
+  port: 9999
+
+repository:
+  provider: github
+  personalAccessToken: '****'
+  owner: ivangabriele
+  name: firept-workspace-sample
+
+workspace:
+  ignoreFiles: []
